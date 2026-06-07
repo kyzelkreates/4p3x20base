@@ -1,0 +1,135 @@
+⛔ STRICT BASE44 / MANUS / SUPER AGENT ENFORCEMENT RULES — READ FIRST
+
+MODE:
+FIX-ONLY BUILD COMPILER MODE
+4P3X VERSE™ VERSION 4.0 STARTER PACK ASSEMBLY
+NO FULL REWRITE UNLESS THE EXISTING IMPORT STRUCTURE IS BROKEN
+NO DESTRUCTIVE REFACTOR
+NO FEATURE DRIFT
+NO DUPLICATE ROUTES
+NO DUPLICATE COMPONENT SYSTEMS
+NO BREAKING EXISTING DATA CONFIGS
+NO HARD-CODED SECRETS
+NO FAKE COMPLETION CLAIMS
+NO CLAIMING ALL 20 BASES ARE FULLY BUILT IF ONLY THE ROADMAP/SPEC HUB IS BUILT
+PRESERVE SSOT / CONFIG-DRIVEN ARCHITECTURE
+VALIDATE BEFORE AND AFTER EVERY CHANGE
+STOP IF REQUIRED FILES ARE MISSING
+
+PROJECT:
+4P3X Verse™ Version 4.0 — 20 Refactorable Base Systems
+Powered by 4P3X Intelligent AI™ Created by Kyzel Kreates™
+
+CURRENT STATUS:
+A starter ZIP has been uploaded containing a working React/Vite landing/spec hub, 20 base definitions, reusable AI agent templates, Base44 instructions, strategy docs, and run plan.
+
+MISSION:
+Assemble, validate, and improve the 4P3X Verse™ Version 4.0 starter pack into a polished portfolio-ready roadmap/demo hub. The site must explain what Version 4.0 is, why 20 specialist bases matter, what each base can become, and how Base44/future runs can turn each base into a fully built refactorable product engine.
+
+IMPORTANT TRUTHFUL POSITIONING:
+Do not falsely claim all 20 bases are already fully implemented products unless they actually are.
+Use accurate wording:
+- “Version 4.0 Roadmap”
+- “20 specialist base architecture library”
+- “planned next evolution”
+- “starter pack / blueprint / build system”
+- “each base can be expanded into a full refactorable product engine through controlled runs”
+
+REQUIRED FILES TO READ FIRST:
+- README.md
+- src/main.jsx
+- src/styles.css
+- src/data/bases.js
+- src/agents/agentRegistry.js
+- docs/V4_PRODUCT_STRATEGY.md
+- docs/BASE_REFACTORING_RULES.md
+- docs/DEMO_LIVE_RULES.md
+- base44/RUN_PLAN_V4_20_BASES.txt
+
+ALLOWED TO TOUCH:
+- src/main.jsx
+- src/styles.css
+- src/data/bases.js only for copy corrections or richer content, not structural destruction
+- src/agents/agentRegistry.js only for bounded AI agent improvements
+- README.md and docs if needed
+- package.json only if needed for build compatibility
+
+DO NOT TOUCH / DO NOT DO:
+- Do not remove “Powered by 4P3X Intelligent AI™ Created by Kyzel Kreates™” branding.
+- Do not remove ™ from Kyzel Kreates™ when branding is presented.
+- Do not add backend secrets or fake API keys.
+- Do not present demo data as live operational data.
+- Do not clone proprietary apps, brands, UI, assets, code, or protected content.
+- Do not add unsafe claims such as guaranteed legal compliance, medical outcomes, safeguarding decisions, route legality, or emergency replacement.
+- Do not create 20 half-built random apps in one run.
+- Do not break the data-driven base card system.
+
+UI / UX REQUIREMENTS:
+- Futuristic black background.
+- Metallic gold, metallic silver, green, purple, and complementary accents.
+- Clear hero section explaining 4P3X Verse™ Version 4.0.
+- Section explaining Version 1.0, 2.0, 3.0, and 4.0 evolution.
+- 20 base cards with detail view or individual sections.
+- Each base must explain: what it is, who needs it, what it can become, core modules, AI agent role, demo/live path.
+- Add a “Build Priority” section recommending first 5 bases to fully build.
+- Add investor/partner-ready explanation.
+- Add creator/learning-speed statement without sounding arrogant.
+- Add safety and ethical boundaries.
+- Add mobile responsiveness across 320px, 375px, 414px, 768px, 1024px, 1366px, and large desktop.
+- Add empty/loading/error states only if dynamic data is introduced.
+
+CONTENT REQUIREMENTS:
+Use this core wording where appropriate:
+
+“4P3X Verse™ Version 4.0 is the planned next evolution of the ecosystem: a 20-base modular product architecture where each base acts as a specialist engine for building sector-ready AI-powered software products.”
+
+“Instead of starting from scratch, future products can be generated, refactored, customised, validated, and deployed from the most suitable base architecture.”
+
+“Demo Mode shows the product. Live Mode runs the product.”
+
+“I have used AI-assisted development to build a first-of-its-kind modular product architecture: one base system capable of becoming many different sector-ready software products through controlled refactoring, configurable data, AI guidance layers, and demo-to-live deployment pathways.”
+
+REQUIRED VERSION EXPLANATION:
+Version 1.0 = original 4P3X Verse™ concept.
+Version 2.0 = live deployed product/demo ecosystem.
+Version 3.0 = five refactorable base structures.
+Version 4.0 = planned 20 specialist refactorable base architecture library.
+
+BASE44 BUILD APPROACH:
+1. First assemble and polish the V4 landing/spec hub.
+2. Validate build and mobile responsiveness.
+3. Do not attempt to fully build all 20 bases in one run.
+4. Create clear shortcuts/cards for future base detail pages.
+5. Prepare the system so each base can later become its own standalone product/base folder.
+
+ACCEPTANCE TESTS:
+- npm install completes.
+- npm run build completes with no errors.
+- Landing page renders from the top of the page.
+- Mobile layout works at 320px width.
+- All 20 bases display.
+- Base detail view works.
+- Agent section displays.
+- Branding line appears correctly.
+- No fake “fully built 20 bases completed” claim appears.
+- No backend-only secrets are present.
+- No safety-critical guarantee wording appears.
+
+ROLLBACK:
+If build breaks, revert only the last edited file and restore the uploaded starter structure. Do not regenerate the whole app.
+
+STOP CONDITIONS:
+Stop and report if:
+- Required files are missing.
+- Build environment cannot install dependencies.
+- Existing source structure is incompatible.
+- Any requested change would require unsafe claims or proprietary cloning.
+
+FINAL OUTPUT REQUIRED FROM BASE44:
+- Summary of exactly what was changed.
+- Files touched.
+- Validation results.
+- Known limitations.
+- Next recommended run.
+
+Directive 1: Adapt the skill set to the task. Include full folder structure, program code, logic code, transition code, UI logic, UI code, and HTML/JSX where required. Preserve SSOT, prevent feature creep, and protect working systems.

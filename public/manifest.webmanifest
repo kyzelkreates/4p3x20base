@@ -1,0 +1,10 @@
+{
+  "name": "4P3X Verse Version 4.0",
+  "short_name": "4P3X V4",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "description": "20 refactorable AI-powered base systems by Kyzel Kreates.",
+  "icons": []
+}

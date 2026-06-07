@@ -1,0 +1,60 @@
+4P3X VERSE™ VERSION 4.0 — CONTROLLED BUILD RUN PLAN
+Powered by 4P3X Intelligent AI™ Created by Kyzel Kreates™
+
+WARNING:
+Do not build 20 full bases in one run. It will reduce quality and create duplicate broken systems. Build in controlled stages.
+
+PHASE 0 — STARTER PACK ASSEMBLY
+Run 0.1: Assemble uploaded ZIP, validate build, preserve files.
+Run 0.2: Polish V4 landing/spec hub, mobile responsiveness, portfolio-ready wording.
+Run 0.3: Add individual base detail pages/sections only if routing is stable.
+
+PHASE 1 — FIRST 5 FULL BASE ENGINES
+Build these first because they support the most future variants:
+1. Base 01 Command Dashboard Control Base
+2. Base 02 PWA Companion App Base
+3. Base 04 Compliance / Audit / Evidence Base
+4. Base 05 AI Knowledge Agent Base
+5. Base 06 Multi-role Portal Base
+
+Recommended per-base run pattern:
+Run A: Identity, shell, navigation, page structure.
+Run B: SSOT/config/data model and demo/live separation.
+Run C: Core dashboard/workflow screens.
+Run D: PWA/mobile/user-facing flow where relevant.
+Run E: AI advisory layer and report/explanation outputs.
+Run F: Backend-ready live mode config guard, validation, polish, PWA checks.
+
+PHASE 2 — SECOND 5 FULL BASE ENGINES
+6. Base 03 LMS / Training Academy Base
+7. Base 10 Fleet / Route / Field Operations Base
+8. Base 11 Welfare / Response / Community Support Base
+9. Base 15 Forms / Assessments / Report Builder Base
+10. Base 18 Portfolio / Showcase / Demo Hub Base
+
+PHASE 3 — FINAL 10 FULL BASE ENGINES
+11. Base 07 Booking / Scheduling / Service Base
+12. Base 08 CRM / Client Management Base
+13. Base 09 Crisis / Reputation Monitoring Base
+14. Base 12 Health / Recovery / Coaching Base
+15. Base 13 Investor / Grant Readiness Base
+16. Base 14 Marketplace / Directory Base
+17. Base 16 Automation Workflow Base
+18. Base 17 Project Rescue / Architecture Extractor Base
+19. Base 19 Safety / Legal Advisory Workflow Base
+20. Base 20 Enterprise Command OS Base
+
+GLOBAL RULES FOR EVERY BASE:
+- Use config-driven architecture.
+- Use storage.js or existing state layer as SSOT for local-first builds unless Supabase/backend is specifically requested.
+- Keep demo mode and live mode separated.
+- Demo data must be globally disableable.
+- Live mode must not depend on demo data.
+- No backend-only secrets in frontend code.
+- AI agents must be bounded, advisory, and transparent.
+- Safety-critical bases require human override and disclaimers.
+- Include PWA installability where relevant.
+- Include validation gates and rollback notes.
+
+FIRST FULL BUILD RECOMMENDATION:
+After the V4 landing/spec hub is polished, build Base 01 fully first. It becomes the control foundation for the rest.
