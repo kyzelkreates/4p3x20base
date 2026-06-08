@@ -8,6 +8,7 @@ import {
   TrendingUp, Users, Building2, Award, Code2, GitBranch
 } from 'lucide-react';
 import { bases } from './data/bases.js';
+import TwentyBaseCreationStructures from './components/TwentyBaseCreationStructures.jsx';
 import { agents } from './agents/agentRegistry.js';
 import './styles.css';
 
@@ -33,6 +34,7 @@ function Nav() {
     { href: '#what', label: 'What is V4.0' },
     { href: '#evolution', label: 'Evolution' },
     { href: '#bases', label: '20 Bases' },
+    { href: '#creation-bases', label: 'Creation Structures' },
     { href: '#refactor', label: 'Refactor Logic' },
     { href: '#demolive', label: 'Demo / Live' },
     { href: '#agents', label: 'AI Agents' },
@@ -790,6 +792,7 @@ function App() {
       <WhatIsV4 />
       <Evolution />
       <Bases />
+      <TwentyBaseCreationStructures />
       <RefactorLogic />
       <DemoLive />
       <AgentSection />
